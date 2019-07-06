@@ -101,3 +101,12 @@
                                                                                (rotation matrix created in rotate3D function)
 	      DDA Line Drawing implemented in lineAlgorithms.cpp, lines 28-54      (lineDDA function)    
 	 
+|**************|
+| SCREENSHOTS: |
+|**************|
+Command Line Interface:
+
+![alt text](https://github.com/marcosa97/ShapeDrawer/blob/master/shape_drawer_cl.png)
+
+Window where shapes are drawn:
+![alt text](https://github.com/marcosa97/ShapeDrawer/blob/master/shape_drawer.png)
