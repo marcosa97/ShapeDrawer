@@ -104,4 +104,5 @@ email: mualcantar@ucdavis.edu
 	* FROM TEXTBOOK:
           3D Object Rotation in transformations3D.cpp, lines 340-359.          (handleRotate function)
                                                                                (rotation matrix created in rotate3D function)
-	      DDA Line Drawing implemented in lineAlgorithms.cpp, lines 28-54      (lineDDA function)     
+	      DDA Line Drawing implemented in lineAlgorithms.cpp, lines 28-54      (lineDDA function)    
+	 
