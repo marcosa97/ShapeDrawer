@@ -1,14 +1,9 @@
-ECS175 PROJECT 2:
-Name: Marcos Alcantar
-Student ID: 913133174
-email: mualcantar@ucdavis.edu
 
 |***************|
 | INSTRUCTIONS: |
 |***************|
 
-1) Once the file is unzipped, navigate to the directory containing all the project files "p2" and
-   type in the command "make" to compile the program.
+1) Type in the command "make" to compile the program.
 
 2) Run the executable file using the command "./p2.out"
 
@@ -104,4 +99,5 @@ email: mualcantar@ucdavis.edu
 	* FROM TEXTBOOK:
           3D Object Rotation in transformations3D.cpp, lines 340-359.          (handleRotate function)
                                                                                (rotation matrix created in rotate3D function)
-	      DDA Line Drawing implemented in lineAlgorithms.cpp, lines 28-54      (lineDDA function)     
+	      DDA Line Drawing implemented in lineAlgorithms.cpp, lines 28-54      (lineDDA function)    
+	 
